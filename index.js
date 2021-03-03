@@ -270,4 +270,4 @@ message.channel.send(" https://media.discordapp.net/attachments/7947110524277227
   })
 
 
-client.login("NzY3MTExODg1Mzc1MDEyOTI0.X4tKnQ.3BXx3Pr25tooRbwiOifO7uhVv5g")
+client.login()
