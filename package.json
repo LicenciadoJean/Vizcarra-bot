@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "discord-anti-spam": "^2.4.1",
+    "discord.js": "^12.5.1",
+    "i": "^0.3.6",
+    "image-url-validator": "^1.0.4",
+    "megadb": "^3.4.0",
+    "pet-pet-gif": "^1.0.3",
+    "pm2": "^4.5.4",
+    "pnpm": "^5.16.0"
+  }
+}
